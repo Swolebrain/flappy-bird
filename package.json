@@ -1,0 +1,24 @@
+{
+  "name": "flappy-bird",
+  "version": "1.0.0",
+  "description": "This is a flappy bird clone made with pure JS and canvas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "reload -b -p 8777"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Swolebrain/flappy-bird.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Swolebrain/flappy-bird/issues"
+  },
+  "homepage": "https://github.com/Swolebrain/flappy-bird#readme",
+  "devDependencies": {
+    "reload": "^1.0.1"
+  }
+}
